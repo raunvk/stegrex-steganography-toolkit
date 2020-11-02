@@ -4,7 +4,7 @@ Description : Audio and Image Steganography
 
 Disclaimer : Use Python3 for the Audio script and Python2 for the Image script
 
-Resources : Sample image and audio files are provided (img1.png, img2.jpeg, aud1.wav, aud2.wav)
+Resources : Sample image and audio files provided (img1.png, img2.jpeg, aud1.wav, aud2.wav)
 
 For Unix-like OS :
 
