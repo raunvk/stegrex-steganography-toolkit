@@ -2,7 +2,7 @@
 
 Description : Audio and Image Steganography
 
-Disclaimer : Use Python3 for the Audio-Steganography script and Python2 for the Image-Steganography script
+Disclaimer : Use Python3 for the Audio script and Python2 for the Image script
 
 Resources : Sample image and audio files are provided (img1.png, img2.jpeg, aud1.wav, aud2.wav)
 
