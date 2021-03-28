@@ -6,7 +6,7 @@
 
 **Resources** : Sample image and audio files provided (img1.png, img2.jpeg, aud1.wav, aud2.wav)
 
-**For Debian-based OS** :
+**How to Run (Linux)** :
 
 1. Install requirements.txt to install necessary packages [**$ python3 -m pip install -r requirements.txt**] 
 
