@@ -1,6 +1,6 @@
 # stegrex-steganography-toolkit
 
-**Description** : Audio and Image Steganography
+**Description** : Audio & Image Steganography Tools
 
 **Requisite** : Use Python3 for the Audio script and Python2 for the Image script
 
