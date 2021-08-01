@@ -6,7 +6,7 @@ color2 = fg('yellow')
 reset = attr('reset')
 
 try:
-	file1 = open('audio.txt', 'r')
+	file1 = open('stegaudio-header.txt', 'r')
 	print(' ')
 	print (color1 + file1.read() + reset)
 	file1.close()
@@ -83,4 +83,3 @@ def Main():
 
 if __name__ == '__main__':
 	Main()
-
